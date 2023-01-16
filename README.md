@@ -2,7 +2,7 @@
 
 《计算机系统要素——从零开始构建现代计算机（第2版）》学习记录
 
-· 博客：https://woieha320r.github.io/nand2tetris
+· 博客：https://woieha320r.github.io/tags/nand2tetris
 
 · GitHub：https://github.com/woieha320r/nand2tetris
 
